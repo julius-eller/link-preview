@@ -1,0 +1,894 @@
+{
+   "items": [
+      {
+         "link": "https://getlumina.com/desk",
+         "title": "Lumina Desk",
+         "description": "Lumina Desk. The first programmable desk.",
+         "thumbnail": "https://res.cloudinary.com/dsjmv5jvb/image/upload/c_scale,q_auto,w_2500/v1659498250/desk/desk-meta.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/9-QCZ8xOBSeiu3P-sfO8NvNxv4y1_pj0ViZrbGN9rL4/https/res.cloudinary.com/dsjmv5jvb/image/upload/c_scale%2Cq_auto%2Cw_2500/v1659498250/desk/desk-meta.jpg"
+      },
+      {
+         "link": "https://www.pixelmator.com/pro/",
+         "title": "Pixelmator Pro",
+         "description": "Pixelmator Pro is a powerful, beautiful, and easy to use image editor packed full of innovations.",
+         "thumbnail": "https://pro-cdn.pixelmator.com/pro/social/1.2.3/img-facebook.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/rJzDkBZ_w-_riImjhqdqdmjidGe1jojA_APllF-wkDw/https/pro-cdn.pixelmator.com/pro/social/1.2.3/img-facebook.jpg"
+      },
+      {
+         "link": "https://www.jasonpontin.com/",
+         "title": "Home",
+         "description": "Jason Pontin invests in deep tech companies, and writes and speaks about the impact of new technologies.",
+         "thumbnail": "https://pontin.imgix.net/general/pontin-meta.jpg?auto=format&crop=focalpoint&domain=pontin.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=630&ixlib=php-2.1.1&q=82&w=1200&s=441d00180f3573d148aca109c1f383ee",
+         "img_download": "https://images-ext-2.discordapp.net/external/4RLY9w8x5pjg2lce5VW3F3LczZdEtAoCld1jpvmfmxc/%3Fauto%3Dformat%26crop%3Dfocalpoint%26domain%3Dpontin.imgix.net%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26ixlib%3Dphp-2.1.1%26q%3D82%26w%3D1200%26s%3D441d00180f3573d148aca109c1f383ee/https/pontin.imgix.net/general/pontin-meta.jpg"
+      },
+      {
+         "link": "https://themindgym.com/",
+         "title": "Psychology Based Organisational Transformation | MindGym UK",
+         "description": "Learn how MindGym can help you sharpen your leadership skills, improve personal and business relationships, and reach next-level performance.",
+         "thumbnail": "curation_index/screenshots/Psychology Based Organisational Transformation | MindGym UK.png",
+         "img_download": "curation_index/screenshots/Psychology Based Organisational Transformation | MindGym UK.png"
+      },
+      {
+         "link": "https://copilot.money/",
+         "title": "Do money better with Copilot",
+         "description": "Track your spending, investments, and net worth in the best-in-class app for iOS.",
+         "thumbnail": "https://copilot.money/static/og-image-f68144733a720c9e74c8cb7df9e20847.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/dy-pslCgbXe6d0H4esOVvMdqQOqiauIvrLW8vrfwvg8/https/copilot.money/static/og-image-f68144733a720c9e74c8cb7df9e20847.png"
+      },
+      {
+         "link": "https://amie.so/",
+         "title": "Amie - Joyful productivity",
+         "description": "Meet the all-in-one calendar. Schedule time for todos, events, and contacts with joy. Try it for free!",
+         "thumbnail": "https://www.amie.so/images/meta.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/XXiIUBxoYmXejB4OTlh4x_OL3hKGdtNbnXW7Kwy3OPk/https/www.amie.so/images/meta.png"
+      },
+      {
+         "link": "https://aerotechnology.com/",
+         "title": "Home - AERO: Sustainable Material Technology",
+         "description": "AERO : a superior sustainable material technology which is revolutionising paint; carbon neutral, durable, light customizable eco coatings with zero VOCs or PVC",
+         "thumbnail": "curation_index/screenshots/Home - AERO: Sustainable Material Technology.png",
+         "img_download": "curation_index/screenshots/Home - AERO: Sustainable Material Technology.png"
+      },
+      {
+         "link": "https://mollerarchitects.com/",
+         "title": "Moller Architects | Moller Architects",
+         "description": "From modest beach houses to iconic landmarks such as Auckland\u2019s Sky Tower, our buildings leave a lasting impression on the landscape and on peoples lives.",
+         "thumbnail": "https://mollerarchitects.com/media/uploads/moller/sitemetadata/site_metadata/Screen_Shot_2022-07-29_at_2.07.18_PM.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/AWXgxQnd1SLLJrLUOkpkF5fyFiQ5CCJHftFtt5HnVg4/https/mollerarchitects.com/media/uploads/moller/sitemetadata/site_metadata/Screen_Shot_2022-07-29_at_2.07.18_PM.png"
+      },
+      {
+         "link": "https://movingparts.io/",
+         "title": "Moving Parts",
+         "description": "Native interface components for building mobile experiences that perform.",
+         "thumbnail": "https://movingparts.io/og-image-new.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/YCWAwS-qAfLW6Joa_O7EhJnPapELruW-_sXQb_pehYk/https/movingparts.io/og-image-new.png"
+      },
+      {
+         "link": "https://buildcover.com",
+         "title": "Cover",
+         "description": "Cover homepage",
+         "thumbnail": "curation_index/screenshots/Cover.png",
+         "img_download": "curation_index/screenshots/Cover.png"
+      },
+      {
+         "link": "https://www.uiprep.com",
+         "title": "UI Prep: The Best Design System UI Kit for Figma",
+         "description": "We\u2019ve done the all the prep work so you can start designing. Jump start your design process with the best Figma design system from UI Prep.",
+         "thumbnail": "https://uploads-ssl.webflow.com/5d70674ac8ca5d922640fa22/62f5748d844ebd13ac77d5a2_URL-Thumbnail-1x-Com.webp",
+         "img_download": "https://images-ext-2.discordapp.net/external/5QUulXRDRJRoO_4hOs1TgUPhuDHtmC4CGfrqgQjLRYE/https/uploads-ssl.webflow.com/5d70674ac8ca5d922640fa22/62f5748d844ebd13ac77d5a2_URL-Thumbnail-1x-Com.webp"
+      },
+      {
+         "link": "https://www.presentandcorrect.com",
+         "title": "Present & Correct",
+         "description": "Office sundries for the modern workspace. New & vintage stationery available online & from our London store.",
+         "thumbnail": "https://cdn.shopify.com/s/files/1/0952/3604/t/3/assets/logo.png?v=38352045998631903231445849021",
+         "img_download": "https://images-ext-2.discordapp.net/external/hqAqdn99CjI1nBsliUIQAxmJMIPV8UzqrXJufitXZn8/%3Fv%3D38352045998631903231445849021/https/cdn.shopify.com/s/files/1/0952/3604/t/3/assets/logo.png"
+      },
+      {
+         "link": "https://xnapper.com/",
+         "title": "Xnapper \u2013 Take beautiful screenshots instantly",
+         "description": "Native macOS app. One click to take a beautiful and ready-to-share screenshot.",
+         "thumbnail": "https://xnapper.com/assets/poster.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/IiFW569LzY8oXrTVg_H2zGHIFZ6P2l_bCR44efpvH1o/https/xnapper.com/assets/poster.png"
+      },
+      {
+         "link": "https://evotorch.ai/",
+         "title": "EvoTorch",
+         "description": "Next-generation Evolutionary Search, Learning and Planning",
+         "thumbnail": "https://evotorch.ai/social_white.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/1C-VOtZA1EK16UmqB8p9suGzhtJ5S3y-EvG6rC4UpYg/https/evotorch.ai/social_white.png"
+      },
+      {
+         "link": "https://tabler-icons.io/",
+         "title": "Tabler Icons: over 2150 vector icons for web design",
+         "description": "2196 free and open source SVG icons designed with attention to detail to make your design stand out. Highly customizable. No attribution required. For commercial use.",
+         "thumbnail": "https://tabler-icons.io/img/tabler-icons/og.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/khPQswp9gcPZEMCLKEqU0Fp9OFWiz77AK1rW0eATjjI/https/tabler-icons.io/img/tabler-icons/og.png"
+      },
+      {
+         "link": "https://joebell.co.uk/",
+         "title": "Joe Bell",
+         "description": "Designer / Developer / Creator",
+         "thumbnail": "https://res.cloudinary.com/big-attic/image/upload/c_fill,g_face,h_1200,w_1500/r_18,c_fill,h_568,w_456/bo_30px_solid_rgb:ffffff,c_pad,g_east,h_568,w_1140/c_fit,g_west,l_text:joebell.co.uk:Inter-Bold.woff2_140:Joe%20Bell,w_624,x_60,y_-30/c_fit,g_west,l_text:joebell.co.uk:Inter-Regular.woff2_28_letter_spacing_2:DESIGNER%20%252F%20DEVELOPER%20%252F%20CREATOR,w_624,x_59,y_90/joebell.co.uk/profile-brooklyn.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/XA2fVKwYJ6gOSu218_MxPv-TxzLMz0wpZYEYMzd9PNc/https/res.cloudinary.com/big-attic/image/upload/c_fill%2Cg_face%2Ch_1200%2Cw_1500/r_18%2Cc_fill%2Ch_568%2Cw_456/bo_30px_solid_rgb%3Affffff%2Cc_pad%2Cg_east%2Ch_568%2Cw_1140/c_fit%2Cg_west%2Cl_text%3Ajoebell.co.uk%3AInter-Bold.woff2_140%3AJoe%2520Bell%2Cw_624%2Cx_60%2Cy_-30/c_fit%2Cg_west%2Cl_text%3Ajoebell.co.uk%3AInter-Regular.woff2_28_letter_spacing_2%3ADESIGNER%2520%25252F%2520DEVELOPER%2520%25252F%2520CREATOR%2Cw_624%2Cx_59%2Cy_90/joebell.co.uk/profile-brooklyn.jpg"
+      },
+      {
+         "link": "https://nuro.dev/",
+         "title": "nuro \u2500 developer",
+         "description": "Hey \ud83d\udc4b I'm Ben, a developer",
+         "thumbnail": "https://nuro.dev/banner.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/n13Dx3ixZQTyVaJVmDc-8kJFvwj6uXR3_6lLM2LSKY4/https/nuro.dev/banner.png"
+      },
+      {
+         "link": "https://www.copy.ai",
+         "title": "Copy.ai: Write better marketing copy and content with AI",
+         "description": "Get great copy that sells. Copy.ai is an AI-powered copywriter that generates high-quality copy for your business. Get started for free, no credit card required! Marketing simplified!",
+         "thumbnail": "https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/629a702fc90e970b2626cd52_fb-og.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/Okf5H8WkYqa1oG8LtEXNofmk6Qr1XFMqqpphg-6np9o/https/assets-global.website-files.com/628288c5cd3e8411b90a36a4/629a702fc90e970b2626cd52_fb-og.jpg"
+      },
+      {
+         "link": "https://www.thenueco.com",
+         "title": "The Nue Co",
+         "description": "At The Nue Co we are redefining supplements - the way you feel about them, the way you take them. We merge science and natural innovation to offer functional supplements for those who are mindful of their health, yet not defined by it. Creating targeted solutions to gut health, sleep, stress and skin issues.",
+         "thumbnail": "https://cdn.shopify.com/s/files/1/1673/2809/files/1080X1080.jpg?v=1659087543",
+         "img_download": "https://images-ext-2.discordapp.net/external/_KcD8cC8gesHhqYZ0_DLkYRrmfmoAn9C62ghlIqqpvc/%3Fv%3D1659087543/https/cdn.shopify.com/s/files/1/1673/2809/files/1080X1080.jpg"
+      },
+      {
+         "link": "https://swiftui.design/",
+         "title": "SwiftUI for Designers",
+         "description": "Prototype in SwiftUI",
+         "thumbnail": "https://swiftui.design/ogRefresh.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/fZtEDIOSVorKJA78DXjsJ6jXgJEOnTmd_A7uEYVrW4Q/https/swiftui.design/ogRefresh.png"
+      },
+      {
+         "link": "https://ingradients.net/",
+         "title": "Ingradients - Hand-picked mesh gradients for your next design project",
+         "description": "Mesh gradients for your next design project, website, flyer, app, wallpaper, brochure...",
+         "thumbnail": "https://ingradients.net/assets/images/preview.png?id=64e09c0753b8bf8d7a77f008178b05b6",
+         "img_download": "https://images-ext-1.discordapp.net/external/8-lVY2awf7PbQTfHXH9siHHoCQFjQg_cpx9b_7tQNCc/%3Fid%3D64e09c0753b8bf8d7a77f008178b05b6/https/ingradients.net/assets/images/preview.png"
+      },
+      {
+         "link": "https://cmdk.paco.me/",
+         "title": "\u2318K",
+         "description": "Fast, composable, unstyled command menu for React.",
+         "thumbnail": "https://cmdk.paco.me/og.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/qu4vELkbXJpM4hkbXAhoUNL-awegq4b4DGbv1dX3Ql8/https/cmdk.paco.me/og.png"
+      },
+      {
+         "link": "https://www.buildbetter.app",
+         "title": "BuildBetter | Give your product research superpowers",
+         "description": "A built a fast, purpose-built, opinionated product research tool to manage, organize and share customer feedback, insights, and user interviews.",
+         "thumbnail": "https://buildbetter.app/og-image.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/N6w8_hnEK7c8fVVtROWfuLLwdQGK8hQKIRnXcI81R9A/https/buildbetter.app/og-image.png"
+      },
+      {
+         "link": "https://github.com/naraB/AppleCard",
+         "title": "GitHub - naraB/AppleCard",
+         "description": "Contribute to naraB/AppleCard development by creating an account on GitHub.",
+         "thumbnail": "https://opengraph.githubassets.com/f4d764e830eb06cd0e2fc21641c0125034ccdd7c6d2dc1b8be0df9c57096ff69/naraB/AppleCard",
+         "img_download": "https://images-ext-2.discordapp.net/external/OX7e4-1HetzKE8j0H2wOfjILSASow2ZWcTPc1hVzkMU/https/opengraph.githubassets.com/f4d764e830eb06cd0e2fc21641c0125034ccdd7c6d2dc1b8be0df9c57096ff69/naraB/AppleCard"
+      },
+      {
+         "link": "https://www.supercreative.design/weblist/1000-inspiring-websites",
+         "title": "1000 Inspiring Websites",
+         "description": "A growing list of websites that are memorable, clear and delightful. Curated by Supercreative.",
+         "thumbnail": "https://assets.website-files.com/5d768372d2b144cdff0dffed/6241d10cf98bcd5d6143c059_1000%20websites%20cover.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/RqGPV4HXj6ewUeQicKbIRfeJ1iGCM30cFag7xkDMLe4/https/assets.website-files.com/5d768372d2b144cdff0dffed/6241d10cf98bcd5d6143c059_1000%2520websites%2520cover.jpg"
+      },
+      {
+         "link": "https://evervault.com/",
+         "title": "Encryption Infrastructure \u2014 Evervault",
+         "description": "Collect, process, and share sensitive data securely.",
+         "thumbnail": "https://evervault.com/social/default.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/TiCXGIY7ccbVygn_zZ3FEbEcDr50JGFBocmrqmz1zdg/https/evervault.com/social/default.png"
+      },
+      {
+         "link": "https://propel.me/",
+         "title": "Propel \u2014 electric inboard and outboard motors",
+         "description": "Next generation electric propulsion. Discover the most efficient electric boat motors in the industry.",
+         "thumbnail": "https://a.storyblok.com/f/126566/1200x630/ac41adf1a7/propel-me-seo.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/ATG9J7p79sOxNfLttd-ZhKhl4fPZEgnUDKxMuN1JbVQ/https/a.storyblok.com/f/126566/1200x630/ac41adf1a7/propel-me-seo.jpg"
+      },
+      {
+         "link": "https://angelvaliente.com/",
+         "title": "ANGEL VALIENTE STUDIO FOR DESIGN",
+         "description": "\u00c1ngel Valiente is a Studio for Design based in Barcelona. We work for people and companies who value simplicity and innovation, finding new conceptual and functional solutions for contemporary living.",
+         "thumbnail": "https://freight.cargo.site/i/fa0aa34c0ae4ac1d647ca05ecc3cb34bb78fb68bc484ca29670e197c956e1f48/Campaign---Possible-Objects-26.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/8nxNunNITBmsJKqddrPQtTp54w459RAUFIsXyyzlh40/https/freight.cargo.site/i/fa0aa34c0ae4ac1d647ca05ecc3cb34bb78fb68bc484ca29670e197c956e1f48/Campaign---Possible-Objects-26.jpg"
+      },
+      {
+         "link": "https://www.wowpage.io/",
+         "title": "WOW-page | For Startup",
+         "description": "Website design and\u00a0development in\u00a04\u00a0weeks for \u20ac\u00a010k",
+         "thumbnail": "https://uploads-ssl.webflow.com/62c83e27f0b913366f3b34a8/62d69c96070a877f66a6ad55_opengraph-min.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/NDsZzxUfr2Mfp3fMSk-fcpdN1hax2w4HGjXp-70n73U/https/uploads-ssl.webflow.com/62c83e27f0b913366f3b34a8/62d69c96070a877f66a6ad55_opengraph-min.jpg"
+      },
+      {
+         "link": "https://webgi-jewelry.vercel.app/",
+         "title": "Jewelry landing page for product visualization and configuration us...",
+         "description": "Jewelry landing page for product visualization and configuration using WEBGi - by Neotix",
+         "thumbnail": "https://webgi-jewelry.vercel.app/assets/images/imageSocial.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/cdM8TOwBpwaeE5tIASPaLE_oyYd2gLNAVsDOoqfDCAM/https/webgi-jewelry.vercel.app/assets/images/imageSocial.jpg"
+      },
+      {
+         "link": "https://exp-abduction.lusion.co/",
+         "title": "Abduction",
+         "description": "Abduction \ud83d\udef8 is a Lusion Monthly Experiment",
+         "thumbnail": "https://exp-abduction.lusion.co/assets/images/cover.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/9QUhFt_NUeGSC8f6USx2pdGwVGEFhhdAZ_VnAW3rK4w/https/exp-abduction.lusion.co/assets/images/cover.jpg"
+      },
+      {
+         "link": "https://lusion.co/",
+         "title": "Lusion",
+         "description": "Lusion is a real-time, development focussed, creative studio.",
+         "thumbnail": "https://lusion.co/assets/images/share.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/qwYUBVg8LRvsTMOPA47xNdjHLMI9Tw8WrSg-ZENnGUo/https/lusion.co/assets/images/share.png"
+      },
+      {
+         "link": "https://patrickheintzmann.com/",
+         "title": "Patrick Heintzmann - Creative Developer",
+         "description": "Driven to explore digital experiences.",
+         "thumbnail": "https://patrickheintzmann.com/staticAssets/meta/metaSocial.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/kFxvYrNdAWx8HGuriA5miAzYeTOJH7eiU4KlTQiEt0Y/https/patrickheintzmann.com/staticAssets/meta/metaSocial.jpg"
+      },
+      {
+         "link": "https://explore.family",
+         "title": "Explore \u2014 Your new creative space",
+         "description": "Explore is a brand new platform for creatives. A place where you can share your work and meet the community without the distraction of ads or unwanted content.",
+         "thumbnail": "https://explore.family/wp-content/uploads/2022/07/opengraph-explore.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/4HD-8BYvfXfc_n4wFUXd56Iiw3kAiB3b2NmeCPeV154/https/explore.family/wp-content/uploads/2022/07/opengraph-explore.jpg"
+      },
+      {
+         "link": "https://www.luni.app/",
+         "title": "Luni \u2014 Welcome to the Luniverse",
+         "description": "Where the creative force brings to life all Luni products, brands, and \u200dexperiences as one team. Explore all jobs \u2192",
+         "thumbnail": "https://assets.website-files.com/62d7a9cf80fdf949eeb68119/62d80c3c328c8054e3359c3c_og-image.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/2H3C9Z0RBNsJqtJU9ozohVJrbGa7vhPe4s5TcPC5_GE/https/assets.website-files.com/62d7a9cf80fdf949eeb68119/62d80c3c328c8054e3359c3c_og-image.jpg"
+      },
+      {
+         "link": "https://klad.design/",
+         "title": "Klad Syndicate",
+         "description": "We are an interdimensional design syndicate providing comprehensive long-lasting solutions for people. We help inspire, envision, create, launch, support and reimagine.",
+         "thumbnail": "https://klad.design/storage/app/media/1200x628.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/VHMxe52_ZoxI1UkIioRqDKjYdAIEVPNRnSncOgjkcL4/https/klad.design/storage/app/media/1200x628.jpg"
+      },
+      {
+         "link": "https://aeonik.co.uk/font/",
+         "title": "Aeonik \u2014 The first collaborative font family by Mark Bloom and Joe ...",
+         "description": "Aeonik also offers vast character sets across each weight, with all Western European diacritics, Punctuation, Mathematic & Numerics. Opentype features allow multiple subsets, caps alternates, tabular and lining numerals, both proportional and old-style.",
+         "thumbnail": "https://aeonik.co.uk/wp-content/uploads/2018/09/Aeonik-screen.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/X1nASGnUPpRLE2roBtAjno2ODkY1a5BWUs9xB0jKOdA/https/aeonik.co.uk/wp-content/uploads/2018/09/Aeonik-screen.png"
+      },
+      {
+         "link": "https://store.insta360.com/product/link",
+         "title": "Buy Link - AI-Powered 4K Webcam - Insta360",
+         "description": "4K Ultra HD webcam with a best-in-class image sensor, HDR mode, AI tracking and gesture control. Plug-and-play design for Mac and Windows. Free shipping.",
+         "thumbnail": "https://res.insta360.com/static/assets/storage/20210615/14af54161e1bacc76326ad0dfbbd0d51/default.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/_lnarbcc3jIRIEJRrZwYxKhvLTfuaKrI81D7sa5AKi4/https/res.insta360.com/static/assets/storage/20210615/14af54161e1bacc76326ad0dfbbd0d51/default.png"
+      },
+      {
+         "link": "https://www.allyourcardsinone.com/?r=21LKW3VX",
+         "title": "All Your Cards in One",
+         "description": "All Your Cards in One",
+         "thumbnail": "https://d25l7iu8htcfz4.cloudfront.net/preview_image.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/5gp_TRUdPV8RaAOzwPXLpffaUc4Nsp6eGLW4IYjidRk/https/d25l7iu8htcfz4.cloudfront.net/preview_image.png"
+      },
+      {
+         "link": "https://coastalworld.com/",
+         "title": "Coastal World - Digital Banking 3D Game and Marketplace",
+         "description": "Play Coastal World now and explore mobile banking apps, digital credit cards, and online banking options that can help you reach your financial goals.",
+         "thumbnail": "https://coastalworld.com/share/share_en.png?v=23301b69",
+         "img_download": "https://images-ext-2.discordapp.net/external/G9XtvrTDXbgM2yBPzgcxUMllH8h2N0NcgFQfUq-mODU/%3Fv%3D23301b69/https/coastalworld.com/share/share_en.png"
+      },
+      {
+         "link": "https://linusrogge.com/#top",
+         "title": "Linus Rogge",
+         "description": "Hamburg based designer and developer",
+         "thumbnail": "https://linusrogge.com/images/linus-2.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/iiNmOlhfQRNVaA5IPi1O0z_1uR8-37mKr3UyuZtRWaI/https/linusrogge.com/images/linus-2.jpg"
+      },
+      {
+         "link": "https://github.com/usted/Albert-Sans",
+         "title": "GitHub - usted/Albert-Sans",
+         "description": "Contribute to usted/Albert-Sans development by creating an account on GitHub.",
+         "thumbnail": "https://opengraph.githubassets.com/263ea896f14be8f75c16481a3deda810cb557fd80ae370df7b5f093e8861857f/usted/Albert-Sans",
+         "img_download": "https://images-ext-2.discordapp.net/external/IAVZtUhuxAgmI7-qmJ1U_CFkPHhBwFhiDRimcMe-Eus/https/opengraph.githubassets.com/263ea896f14be8f75c16481a3deda810cb557fd80ae370df7b5f093e8861857f/usted/Albert-Sans"
+      },
+      {
+         "link": "https://www.oliur.com/",
+         "title": "Oliur",
+         "description": "Designer and creator of stuff on the internet.",
+         "thumbnail": "curation_index/screenshots/Oliur.png",
+         "img_download": "curation_index/screenshots/Oliur.png"
+      },
+      {
+         "link": "https://explore.family/",
+         "title": "Explore \u2014 Your new creative space",
+         "description": "Explore is a brand new platform for creatives. A place where you can share your work and meet the community without the distraction of ads or unwanted content.",
+         "thumbnail": "https://explore.family/wp-content/uploads/2022/07/opengraph-explore.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/4HD-8BYvfXfc_n4wFUXd56Iiw3kAiB3b2NmeCPeV154/https/explore.family/wp-content/uploads/2022/07/opengraph-explore.jpg"
+      },
+      {
+         "link": "https://press.stripe.com",
+         "title": "Stripe Press \u2014 Ideas for progress",
+         "description": "Stripe Press produces works about technological, economic, and scientific advancement.",
+         "thumbnail": "https://images.ctfassets.net/fzn2n1nzq965/13zaWB3aiz08hqNr69CMW4/772586e910faef5d26d15e01edb9c010/social.png?q=80",
+         "img_download": "https://images-ext-1.discordapp.net/external/p4YJ-xI7cw5BGJmfFvQZhT_BVkon4L9dCBQ3zXg8TP8/%3Fq%3D80/https/images.ctfassets.net/fzn2n1nzq965/13zaWB3aiz08hqNr69CMW4/772586e910faef5d26d15e01edb9c010/social.png"
+      },
+      {
+         "link": "https://ikilledacactus.com",
+         "title": "I Killed A Cactus",
+         "description": "A simple guide to houseplants for the horticulturally challenged from Mallard and Claret",
+         "thumbnail": "https://uploads-ssl.webflow.com/62028a390fa12d34fc38ae8c/621e6ef8546b759fe35f08c5_Ikilledacactus.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/SHcJIXBMFf94h4ICwkCl89w7-QVFN1iftEdAOheFBcc/https/uploads-ssl.webflow.com/62028a390fa12d34fc38ae8c/621e6ef8546b759fe35f08c5_Ikilledacactus.jpg"
+      },
+      {
+         "link": "https://scale.com",
+         "title": "Scale AI: The Data Platform for AI",
+         "description": "Trusted by world class companies, Scale delivers high quality training data for AI applications such as self-driving cars, mapping, AR/VR, robotics, and more.",
+         "thumbnail": "https://scale.com/static/images/global/facebook.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/7caoAYWVHsVxXM-jXLeRgHqBalaYeZ7zlJrLZn9HAzc/https/scale.com/static/images/global/facebook.png"
+      },
+      {
+         "link": "https://github.com/4TWIGGERS/react-native_3d_store",
+         "title": "GitHub - 4TWIGGERS/react-native_3d_store",
+         "description": "Contribute to 4TWIGGERS/react-native_3d_store development by creating an account on GitHub.",
+         "thumbnail": "https://opengraph.githubassets.com/730d83b6ae77837e12bcadf49036789158ec37e94ce80676c5cdd454dfc4d008/4TWIGGERS/react-native_3d_store",
+         "img_download": "https://images-ext-2.discordapp.net/external/Y333fQmjdgTQkGOcEVajOKL_VOn7_s_1qS__-EVkBBY/https/opengraph.githubassets.com/730d83b6ae77837e12bcadf49036789158ec37e94ce80676c5cdd454dfc4d008/4TWIGGERS/react-native_3d_store"
+      },
+      {
+         "link": "https://www.toools.design/",
+         "title": "Toools.design \u2013 An archive of 1000+ Design Resources",
+         "description": "A growing archive of over a thousand design resources, weekly updated for the community. Discover highly useful design tools you never thought existed.",
+         "thumbnail": "https://uploads-ssl.webflow.com/5ce10a4c0b5f0b05f522e746/628794875a8618530c52cbbf_toools-design-open-graph-image.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/Ywf29kAEsmD5cNMMJHRfpoEaH-_OwgaDVvel_1i7FN0/https/uploads-ssl.webflow.com/5ce10a4c0b5f0b05f522e746/628794875a8618530c52cbbf_toools-design-open-graph-image.jpg"
+      },
+      {
+         "link": "https://camillemormal.com/",
+         "title": "Camille Mormal \u2014 Independent Designer & Art Director",
+         "description": "Camille Mormal is an Independent Interactive Designer & Art Director \u2013 Specializing in building art direction for immersive & interactive web experiences.",
+         "thumbnail": "https://camillemormal.com/static/og/1200-630.png?2",
+         "img_download": "https://images-ext-2.discordapp.net/external/iLpRPTzeLCBVYhpCed9pGTRm3jClqQN-GnGIQzwQNQM/%3F2/https/camillemormal.com/static/og/1200-630.png"
+      },
+      {
+         "link": "https://www.studioheed.com/",
+         "title": "Studio HEED",
+         "description": "An independent design studio collaborating with people who believe in the power of design to transform their brand, product or idea and take it to the next level.",
+         "thumbnail": "https://www.studioheed.com/og.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/-dONbDzguQX0ot2_fayV-RYppoP3MLPLwy5Vm484b94/https/www.studioheed.com/og.png"
+      },
+      {
+         "link": "https://www.viture.com/",
+         "title": "VITURE: Next Gen AR Glasses",
+         "description": "Making the parallel possible...",
+         "thumbnail": "https://assets.website-files.com/621fa963f6b3f5c177850f57/62d1b14c93176166b8c34924_viture-og.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/rOauBlTgzcvqcfP5MClAdADiEiELj8W5VhD0s0gTa0Y/https/assets.website-files.com/621fa963f6b3f5c177850f57/62d1b14c93176166b8c34924_viture-og.jpg"
+      },
+      {
+         "link": "https://atlason.com/",
+         "title": "Industrial Design Firm NYC New York - Atlason",
+         "description": "Atlason Studio is an innovative industrial design firm in NYC. Our designers develop sustainable products & packaging for the world's most prominent brands.",
+         "thumbnail": "curation_index/screenshots/Industrial Design Firm NYC New York - Atlason.png",
+         "img_download": "curation_index/screenshots/Industrial Design Firm NYC New York - Atlason.png"
+      },
+      {
+         "link": "https://algo.tv/",
+         "title": "Algo \u2014 Video Automation",
+         "description": "Algo is a data-visualization studio specializing in video automation. We run a platform that turns data into videos, at scale.",
+         "thumbnail": "https://framerusercontent.com/images/SMHvjPi4215tksR8glzKtExZq8Q.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/WyXwXp4BK7qa4pQKWCHVWmoplv8Dn0_JMnOpoZya61U/https/framerusercontent.com/images/SMHvjPi4215tksR8glzKtExZq8Q.jpg"
+      },
+      {
+         "link": "https://www.maisonmargiela.com/de-de/",
+         "title": "Maison Margiela Offizieller Store | Kleidung & Accessoires f\u00fcr D...",
+         "description": "Die Offizielle Maison Margiela Online-Boutique besuchen und einzigartige Haute Couture und Ready-to-Wear-Neuheiten f\u00fcr Damen und Herren entdecken.",
+         "thumbnail": "curation_index/screenshots/Maison Margiela Offizieller Store | Kleidung & Accessoires f\u00fcr D....png",
+         "img_download": "curation_index/screenshots/Maison Margiela Offizieller Store | Kleidung & Accessoires f\u00fcr D....png"
+      },
+      {
+         "link": "https://fix.studio/",
+         "title": "Fix Studio",
+         "description": "A collective of creative thinkers making things smarter, newer, and more memorable.\n\nWe believe that function is the substance of aesthetic experience. This principle guides clearer user interfaces, stronger branding devices and more cohesive design systems. Whether designing multi-platform experiences or building enterprise applications, we mak...",
+         "thumbnail": "https://images.ctfassets.net/coilcgtyhxyc/4fkQPQlGS95YsmCbSrgrCi/5dc2a10c2a81d9b25525347776663871/SEO_Thumbnail.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/UuzgGi5uBbCgbZcOiKmKWokmFEotRGGPBtT13OPFiDo/https/images.ctfassets.net/coilcgtyhxyc/4fkQPQlGS95YsmCbSrgrCi/5dc2a10c2a81d9b25525347776663871/SEO_Thumbnail.jpg"
+      },
+      {
+         "link": "https://brunocafe.co/",
+         "title": "Bruno Caf\u00e9 (Da Silva) \u2013 Design Director",
+         "description": "Bruno Caf\u00e9 is a Designer based in New York City. Working with visual identities and imagery for clients operating in fashion, music, architecture, and technology.",
+         "thumbnail": "https://freight.cargo.site/i/f12cb92344ee259ef06df871e174a89caad93049c9190c22509056b1c8bc0b9a/A.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/IffiKA7KC04OMCxPWcH51Xq0Z5Rb3SvSl8WTqyfMFRA/https/freight.cargo.site/i/f12cb92344ee259ef06df871e174a89caad93049c9190c22509056b1c8bc0b9a/A.png"
+      },
+      {
+         "link": "https://www.around.co",
+         "title": "Around | Video calls loved by extraordinary teams.",
+         "description": "Discover radically unique video calls designed to help hybrid-remote teams create, collaborate and celebrate together.",
+         "thumbnail": "https://a.storyblok.com/f/128211/1200x630/5d88d0ac6a/og-image.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/RPDT3P8Q3fclcjp5SCEZf8sKcxo1U22bgeyXjH37JEg/https/a.storyblok.com/f/128211/1200x630/5d88d0ac6a/og-image.png"
+      },
+      {
+         "link": "https://solana.com/summercamp",
+         "title": "Solana Summer Camp Hackathon | Solana: Build crypto apps that scale",
+         "description": "Solana Summer Camp Hackathon, a global hackathon by Solana.",
+         "thumbnail": "https://solana.com/social/summercamp.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/STK-d86yjPzZN5tWK8sx3Vat2s239v-CO6bPaRR0BAg/https/solana.com/social/summercamp.png"
+      },
+      {
+         "link": "https://weather-in-calendar.com/",
+         "title": "Weather in Calendar  \u26c5\ufe0f 20\u00b0",
+         "description": "You can now (again) get the weather forecast directly into your calendar. This local weather calendar uses emoji icons \u26c5\ufe0f\u00a0\ud83c\udf27\ufe0f\u00a0\ud83c\udf26\u00a0\ud83c\udf28\ufe0f \u00a0to display a 14 days forecast from OpenWeatherMap. Enter you city, adjust according to your preferences and make a free calendar.Works for all calendars supporting online .ics and emojis, like Google Calendar, Apple ...",
+         "thumbnail": "https://uploads-ssl.webflow.com/5e61717fb2f3f3fab72aeb42/610ac5ba9fade40e0097e48a_Producthunt-Screen-3.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/vW0oxXxMGxdTLi2qN0bZ98dliGzfayAVhAeVXFMFVj0/https/uploads-ssl.webflow.com/5e61717fb2f3f3fab72aeb42/610ac5ba9fade40e0097e48a_Producthunt-Screen-3.jpg"
+      },
+      {
+         "link": "https://sdw.space/",
+         "title": "Sebastiaan de With",
+         "description": "Sebastiaan de With - Human, designer, photographer and motorcyclist.",
+         "thumbnail": "https://sdw.space/static/img/og-graph-image.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/VOIRFfdSlsOcfwalasp9CZcsG9B4a6ZszgnJF9ApP7A/https/sdw.space/static/img/og-graph-image.jpg"
+      },
+      {
+         "link": "https://dallery.gallery/the-dalle-2-prompt-book/",
+         "title": "The DALL\u00b7E 2 Prompt Book",
+         "description": "A guide to OpenAI's DALL\u00b7E - prompts, projects, examples, and tips",
+         "thumbnail": "https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-1024x576.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/vh-WkAdr2CyNAvN4BsOJEbDFnFGchChEKfl-eeqaklE/https/dallery.gallery/wp-content/uploads/2022/07/The-DALL%25C2%25B7E-2-prompt-book-1024x576.jpg"
+      },
+      {
+         "link": "https://github.com/lklima/rn-parallax-cards",
+         "title": "GitHub - lklima/rn-parallax-cards",
+         "description": "Contribute to lklima/rn-parallax-cards development by creating an account on GitHub.",
+         "thumbnail": "https://opengraph.githubassets.com/e0727f626b40a02de4d4ec62744c1b678dedc5eaded2e475a6779e190bc74523/lklima/rn-parallax-cards",
+         "img_download": "https://images-ext-2.discordapp.net/external/nk49BDNV5R5i6TCWt_Z_MEOMg5PBFoDksqjSP_AN6Dk/https/opengraph.githubassets.com/e0727f626b40a02de4d4ec62744c1b678dedc5eaded2e475a6779e190bc74523/lklima/rn-parallax-cards"
+      },
+      {
+         "link": "https://familytype.co/#modernera",
+         "title": "Family Type",
+         "description": "Family Type is a digital type foundry based in London and Sydney. Our focus is on the design and development of typefaces and ways we can apply technology to improve the design, utility or experience of type.",
+         "thumbnail": "curation_index/screenshots/Family Type.png",
+         "img_download": "curation_index/screenshots/Family Type.png"
+      },
+      {
+         "link": "https://setups.co/",
+         "title": "Setups",
+         "description": "Inspiring workspaces from creators.",
+         "thumbnail": "https://setups-imgs.ams3.digitaloceanspaces.com/static/cover.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/uzGSzUTvETFS04dfCaaeT3L9lf8-1j8n3pZXnxT5gW0/https/setups-imgs.ams3.digitaloceanspaces.com/static/cover.png"
+      },
+      {
+         "link": "https://appwrite.io",
+         "title": "Appwrite - Open-Source End-to-End Backend Server",
+         "description": "Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.",
+         "thumbnail": "https://appwrite.io/images/logo.png?v=401",
+         "img_download": "https://images-ext-2.discordapp.net/external/M7IC-kJRbwBchNxsE-_ZEae0T6nP5cc3aKG6BFWbF00/%3Fv%3D401/https/appwrite.io/images/logo.png"
+      },
+      {
+         "link": "https://tactic.fyi/",
+         "title": "Every target account. Any custom criteria.",
+         "description": "Target accounts not matching your ideal customer profile? Build lists based on any people and contextual criteria. Scale revenue efficiently.",
+         "thumbnail": "https://tactic.fyi/static/og-image-default-2590cc5ddd8755ee3ed230582c8f399b.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/eI4Z2zuI-5L5pnkih9b4nHvZ0R6Sw8AlE5ojihzhYdI/https/tactic.fyi/static/og-image-default-2590cc5ddd8755ee3ed230582c8f399b.png"
+      },
+      {
+         "link": "https://getuntil.app/",
+         "title": "Until",
+         "description": "Track the meaningful events in your life",
+         "thumbnail": "https://getuntil.app/social-image.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/zwo5-Ed3E4ObU140oDrykW3bffD8HqIxIfxRYlNRGkc/https/getuntil.app/social-image.jpg"
+      },
+      {
+         "link": "https://unfurproject.com/",
+         "title": "UNFUR\u2122 Project",
+         "description": "Fur fashion to fight the fur industry",
+         "thumbnail": "https://www.unfurproject.com/assets/icons/unfurproject-thumbnail.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/JNI4164tHuRn7xINOhGrDAzJwxW6nYBKwfXyDPoceBg/https/www.unfurproject.com/assets/icons/unfurproject-thumbnail.jpg"
+      },
+      {
+         "link": "https://www.convex.dev",
+         "title": "Convex",
+         "description": "Global state management for react",
+         "thumbnail": "curation_index/screenshots/Convex.png",
+         "img_download": "curation_index/screenshots/Convex.png"
+      },
+      {
+         "link": "https://flecto.io/",
+         "title": "Flecto - Unlock your Rental Business and Access New Customers |",
+         "description": "Flecto is the rental platform that makes businesses thrive in the circular economy. A flexible rental software for all types of businesses.",
+         "thumbnail": "https://cdn.sanity.io/images/nxwwhcgv/production/08e533e7d683cdefe3c2ad471596a7d0af3cc7cc-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&auto=format",
+         "img_download": "https://images-ext-2.discordapp.net/external/OeuAWhQkcpfS1E4CFtmeYLYH5rIFxCujABoi-O-MGhc/%3Frect%3D0%2C36%2C1920%2C1008%26w%3D1200%26h%3D630%26auto%3Dformat/https/cdn.sanity.io/images/nxwwhcgv/production/08e533e7d683cdefe3c2ad471596a7d0af3cc7cc-1920x1080.png"
+      },
+      {
+         "link": "https://cobe.vercel.app",
+         "title": "COBE \u2013 COBE",
+         "description": "A 5kB WebGL globe library.",
+         "thumbnail": "https://repository-images.githubusercontent.com/429536908/62a4e686-8613-4b45-b7bb-fa35b558ae8e",
+         "img_download": "https://images-ext-2.discordapp.net/external/qH1POMe9jAAamGVPY91vfHwnWcuy3D9ICEljHQ-Cm24/https/repository-images.githubusercontent.com/429536908/62a4e686-8613-4b45-b7bb-fa35b558ae8e"
+      },
+      {
+         "link": "https://www.muuto.com",
+         "title": "Muuto",
+         "description": "New Perspectives on Scandinavian Design.\nMuuto is rooted in the Scandinavian design tradition characterized by enduring aesthetics, functionality, craftsmanship and an honest expression.",
+         "thumbnail": "curation_index/screenshots/Muuto.png",
+         "img_download": "curation_index/screenshots/Muuto.png"
+      },
+      {
+         "link": "https://a-okay.ca/products/grinder",
+         "title": "Offset Grinder",
+         "description": "The offset grinder uses an easy to grip, asymmetrical shape to provide added leverage for effortless grinding. The unconventional yet minimal form is milled from a solid piece of aluminium making it a durable and beautiful object. The tray offers a home for\u00a0the grinder and your other accessories.\u00a0Crafted\u00a0from a solid p",
+         "thumbnail": "https://cdn.shopify.com/s/files/1/0621/5807/8183/products/TRAYandGRINDER_PERSPECTIVEVERSION2.jpg?v=1649820879",
+         "img_download": "https://images-ext-2.discordapp.net/external/juxfq261rz-W4MA_BJdIrveKUd1U6rJv1XIhit0cWhU/%3Fv%3D1649820879/https/cdn.shopify.com/s/files/1/0621/5807/8183/products/TRAYandGRINDER_PERSPECTIVEVERSION2.jpg"
+      },
+      {
+         "link": "https://prototyper.design/",
+         "title": "Prototyper for Figma",
+         "description": "Powerful prototyping with code in Figma.",
+         "thumbnail": "https://prototyper.design/images/og.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/Hz35Lp0tisM4Jd3wZll7qYP8942waXJHEsoRH-ir0cM/https/prototyper.design/images/og.png"
+      },
+      {
+         "link": "https://github.com/shuding/cobe",
+         "title": "GitHub - shuding/cobe: 5kB WebGL globe lib.",
+         "description": "5kB WebGL globe lib. Contribute to shuding/cobe development by creating an account on GitHub.",
+         "thumbnail": "https://repository-images.githubusercontent.com/429536908/62a4e686-8613-4b45-b7bb-fa35b558ae8e",
+         "img_download": "https://images-ext-2.discordapp.net/external/qH1POMe9jAAamGVPY91vfHwnWcuy3D9ICEljHQ-Cm24/https/repository-images.githubusercontent.com/429536908/62a4e686-8613-4b45-b7bb-fa35b558ae8e"
+      },
+      {
+         "link": "https://visualist.com",
+         "title": "BRYON PANAIA",
+         "description": "BRYON PANAIA - NIKE BRAND EXPERIENCE CREATIVE DIRECTOR. EXPERIENTIAL DESIGN + IMMERSIVE STORYTELLING",
+         "thumbnail": "https://freight.cargo.site/i/888fe132e4e363ed59faf3ba09c7e11566a985eaa421033ae693e2c4376f7d2b/NIke_House_of_Innovation_Adapt_BB_Bryon_Panaia_01.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/sRlUi3Xq8M5cuNqCge6uavrvowvKRY7vP0qD3-OUG1o/https/freight.cargo.site/i/888fe132e4e363ed59faf3ba09c7e11566a985eaa421033ae693e2c4376f7d2b/NIke_House_of_Innovation_Adapt_BB_Bryon_Panaia_01.jpg"
+      },
+      {
+         "link": "https://palette.supply/",
+         "title": "Palette Supply",
+         "description": "Palette Supply",
+         "thumbnail": "https://cdn.shopify.com/s/files/1/0632/4659/8402/files/Logo_Dark_8cfc9583-5421-4bc7-b5ea-4494812f9f33.png?height=628&pad_color=f2f0e9&v=1647630525&width=1200",
+         "img_download": "https://images-ext-1.discordapp.net/external/5sZj0vWdnW2N1au0H5BCkygC4vkNRvs9atOybbd0Bro/%3Fheight%3D628%26pad_color%3Df2f0e9%26v%3D1647630525%26width%3D1200/https/cdn.shopify.com/s/files/1/0632/4659/8402/files/Logo_Dark_8cfc9583-5421-4bc7-b5ea-4494812f9f33.png"
+      },
+      {
+         "link": "https://dribbble.com/courses/product-design?utm_source=vero_newsletters&utm_medium=email&utm_content=control&utm_campaign=%5B6.20.2022%5D%20Monday%20Education%20Newsletter&utm_term=Newsletter&vero_id=nils.eller%40hfg.design&vero_conv=M9lEL7-QKuudjmxmzWUUIgKDVhexmvDvRgtJSaB6tuaHmtTNdPtGtia2HkAPIqrws6_khO9DMM-XfIGEiRoUli57a8aXzigWJkM%3D",
+         "title": "Learn Product Design from Dribbble\u2019s Experts | Dribbble",
+         "description": "Learn product design tools including the design process, interaction design, prototyping, and more. Video and live mentoring for a flexible learning experience.",
+         "thumbnail": "curation_index/screenshots/Learn Product Design from Dribbble\u2019s Experts | Dribbble.png",
+         "img_download": "curation_index/screenshots/Learn Product Design from Dribbble\u2019s Experts | Dribbble.png"
+      },
+      {
+         "link": "https://findmy.vitra.com/",
+         "title": "Office Chair Finder | Vitra",
+         "description": "Welcome to our office chair finder",
+         "thumbnail": "https://findmy.vitra.com/images/vitra-og-image-en.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/j6EPGYsS-6NBygiV0h6Ae8SEk1ViJu6yIumBHcOPaN4/https/findmy.vitra.com/images/vitra-og-image-en.jpg"
+      },
+      {
+         "link": "https://components.ai",
+         "title": "Components AI \u2014 A new way to explore generative design systems",
+         "description": "Parametric and generative design tools",
+         "thumbnail": "https://dc28c2r6oodom.cloudfront.net/og.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/ykW7qUDMzyFuFZk_GmnZPx6rHMiUQJ7LrYbN6xrPOjo/https/dc28c2r6oodom.cloudfront.net/og.png"
+      },
+      {
+         "link": "https://things.inc",
+         "title": "Things, Inc.",
+         "description": "Things by Things.",
+         "thumbnail": "https://things.inc/static/og_image.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/TUiDZC3bmspnYw3Cz9Z6WPeLrYkPixA2svF0TgMQEv8/https/things.inc/static/og_image.png"
+      },
+      {
+         "link": "https://www.hyumankind.com",
+         "title": "portfolio, hyam",
+         "description": "hyam is a product and brand identity designer, art director currently working at twitter. Passionate about creating authentic virtual human expression.",
+         "thumbnail": "https://assets.website-files.com/62a77a07525a03b8459c13f9/62a78fc3598f97fda792d77b_256%20favicon.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/_1XQNQMYNUaHcECWRvMr-bMHZ3cB6CoaV8eDk2zIYwo/https/assets.website-files.com/62a77a07525a03b8459c13f9/62a78fc3598f97fda792d77b_256%2520favicon.jpg"
+      },
+      {
+         "link": "https://unrealspeech.com/sample",
+         "title": "Live Demo: AWS vs Unreal Speech",
+         "description": "Help us fight against the monopoly and provide an ultra-affordable, high-quality solution to billions of people around the world.",
+         "thumbnail": "https://unreal-tts-live-demo.s3.us-west-1.amazonaws.com/assets/social.jpeg",
+         "img_download": "https://images-ext-1.discordapp.net/external/HXYER_DdUDriIBkyJ-oYLJXyH6b_FKYwewWC1tdq2qw/https/unreal-tts-live-demo.s3.us-west-1.amazonaws.com/assets/social.jpeg"
+      },
+      {
+         "link": "https://www.gareth-hughes.com",
+         "title": "Gareth Hughes \u2022 Design Director",
+         "description": "Portfolio of Gareth Hughes. A Design Director for Brand & digital experiences for planet-friendly projects.",
+         "thumbnail": "curation_index/screenshots/Gareth Hughes \u2022 Design Director.png",
+         "img_download": "curation_index/screenshots/Gareth Hughes \u2022 Design Director.png"
+      },
+      {
+         "link": "https://www.glucode.com",
+         "title": "Web, Mobile App Development & Design \u2014 Glucode",
+         "description": "Glucode is an award winning South African digital agency specialising in mobile app development, UI & UX design.",
+         "thumbnail": "curation_index/screenshots/Web, Mobile App Development & Design \u2014 Glucode.png",
+         "img_download": "curation_index/screenshots/Web, Mobile App Development & Design \u2014 Glucode.png"
+      },
+      {
+         "link": "https://www.campsite.design",
+         "title": "Campsite \u2014 The home for your team\u2019s work in progress",
+         "description": "The best design teams share lots of work. Campsite makes it easy to keep up.",
+         "thumbnail": "https://www.campsite.design/og/image.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/ABjwY8sfHmsooJajYnHYupdLSsGc35Cgdpk4Bf1dar4/https/www.campsite.design/og/image.png"
+      },
+      {
+         "link": "https://evervault.com",
+         "title": "Encryption Infrastructure \u2014 Evervault",
+         "description": "Collect, process, and share sensitive data securely.",
+         "thumbnail": "https://evervault.com/social/default.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/TiCXGIY7ccbVygn_zZ3FEbEcDr50JGFBocmrqmz1zdg/https/evervault.com/social/default.png"
+      },
+      {
+         "link": "https://www.rokumaruichi.tokyo/",
+         "title": "601 Inc.",
+         "description": "601 is an independent film studio based in Tokyo.",
+         "thumbnail": "https://dumbpev7e8nb6.cloudfront.net/assets/img/ogp.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/0EBy4r0ElXyvifDWt1CpAXdXH43Mm6mfui9Gru7bofw/https/dumbpev7e8nb6.cloudfront.net/assets/img/ogp.png"
+      },
+      {
+         "link": "https://github.com/features/codespaces",
+         "title": "Blazing fast cloud developer environments",
+         "description": "Codespaces has the full power of Visual Studio Code, including the editor, terminal, debugger, settings sync, and any extension.",
+         "thumbnail": "https://github.githubassets.com/images/modules/site/social-cards/codespaces-ga.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/dsLRcZtVodvyqSRxA0eVi-2xFDIJOQ4WQJiw8zVkstM/https/github.githubassets.com/images/modules/site/social-cards/codespaces-ga.png"
+      },
+      {
+         "link": "https://www.eduardodelfraile.com",
+         "title": "Home \u2013 Eduardo del Fraile",
+         "description": "Eduardo del Fraile es un dise\u00f1ador multidisciplinar especializado en realizar proyectos de largo recorrido.",
+         "thumbnail": "curation_index/screenshots/Home \u2013 Eduardo del Fraile.png",
+         "img_download": "curation_index/screenshots/Home \u2013 Eduardo del Fraile.png"
+      },
+      {
+         "link": "https://www.tedlee.io",
+         "title": "Ted Lee - Product Designer",
+         "description": "I specialize in transforming complex challenges into intuitive, simple, and strategic design solutions based on a human-centered approach.",
+         "thumbnail": "https://assets.website-files.com/61a494a18d2c847846cae156/61f4af019aab6a60901054d8_opengraphsmall.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/oejYeEU0JdZRqyeKqCEGeSxmJRgMhM_KVjOzd_hxycY/https/assets.website-files.com/61a494a18d2c847846cae156/61f4af019aab6a60901054d8_opengraphsmall.png"
+      },
+      {
+         "link": "https://www.yichenxie.com",
+         "title": "Yichen Xie",
+         "description": "Yichen Xie is a product designer and a junior interaction design student at the University of Washington.",
+         "thumbnail": "https://uploads-ssl.webflow.com/5df3776e014f2458a4afac9c/5faaf2c3ad53766398f6061e_webseo1.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/qmxj7gbz71kyQPJ9gXEp-4sYzXM7g0ft7SVBJ1sd_Ek/https/uploads-ssl.webflow.com/5df3776e014f2458a4afac9c/5faaf2c3ad53766398f6061e_webseo1.png"
+      },
+      {
+         "link": "https://opencollective.com/",
+         "title": "Open Collective",
+         "description": "Make your community sustainable. Collect and spend money transparently.",
+         "thumbnail": "https://opencollective.com/static/images/opencollective-og-default.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/tTlTlOamk7UIkJg1qelnXV6grsW4nbP_JVbwD-oSgx4/https/opencollective.com/static/images/opencollective-og-default.png"
+      },
+      {
+         "link": "https://www.clouarchitects.com",
+         "title": "Home - CLOU architects",
+         "description": "CLOU is a multi-award-winning architecture, planning, interiors, landscape and graphic design firm based in Beijing, Shanghai and Shenzhen.",
+         "thumbnail": "https://www.clouarchitects.com/wp-content/uploads/2022/04/clou-social.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/MmLeDn6baX5S4-xm4Uv8_7Qth3OV_pr5tX5kS3bUqRw/https/www.clouarchitects.com/wp-content/uploads/2022/04/clou-social.png"
+      },
+      {
+         "link": "https://webkit.org",
+         "title": "WebKit",
+         "description": "Open Source Web Browser Engine",
+         "thumbnail": "curation_index/screenshots/WebKit.png",
+         "img_download": "curation_index/screenshots/WebKit.png"
+      },
+      {
+         "link": "https://cli.github.com",
+         "title": "GitHub CLI",
+         "description": "Take GitHub to the command line",
+         "thumbnail": "https://cli.github.com/assets/images/social-card.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/3dIkpGgvghcjx8h-lGa6gXXqEqg6ChfYFfH7a1yKqto/https/cli.github.com/assets/images/social-card.png"
+      },
+      {
+         "link": "https://sensei.app",
+         "title": "Sensei - The Next Generation Mac performance tool",
+         "description": "Sensei is a utility for improving your Mac performance \u2014 with features for Cleaning, Optimizing and Monitoring every aspect of your Mac.",
+         "thumbnail": "https://global-uploads.webflow.com/5df24125ba2fb0b9840e4a0a/613a15fcdcedf2190825f061_promo-monitor.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/tcGEENTUaYhPDC7j7Yr27U1pB8QFeY6y8wqIjE3tGno/https/global-uploads.webflow.com/5df24125ba2fb0b9840e4a0a/613a15fcdcedf2190825f061_promo-monitor.png"
+      },
+      {
+         "link": "https://github.com/rsms/serve-http",
+         "title": "GitHub - rsms/serve-http: Simple, safe single-file local web server",
+         "description": "Simple, safe single-file local web server. Contribute to rsms/serve-http development by creating an account on GitHub.",
+         "thumbnail": "https://opengraph.githubassets.com/69069974c8d87946d24a1a0b758b84f11784562a1f6e890e1ac1986611541482/rsms/serve-http",
+         "img_download": "https://images-ext-1.discordapp.net/external/a9powMLqNBbfQIBINdcuqTRXWoL1aiKUu2TS1nE2tpI/https/opengraph.githubassets.com/69069974c8d87946d24a1a0b758b84f11784562a1f6e890e1ac1986611541482/rsms/serve-http"
+      },
+      {
+         "link": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+         "title": "GitHub - iamadamdev/bypass-paywalls-chrome: Bypass Paywalls web bro...",
+         "description": "Bypass Paywalls web browser extension for Chrome and Firefox. - GitHub - iamadamdev/bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox.",
+         "thumbnail": "https://opengraph.githubassets.com/8b7ccd1cd0c3140af177dc532ea620193735ca7045d2b5a0b22fa54a8787d45f/iamadamdev/bypass-paywalls-chrome",
+         "img_download": "https://images-ext-2.discordapp.net/external/bYIv-PXP06PFNyCTBQmGEgvYdk8TENjBIesQW_py4bE/https/opengraph.githubassets.com/8b7ccd1cd0c3140af177dc532ea620193735ca7045d2b5a0b22fa54a8787d45f/iamadamdev/bypass-paywalls-chrome"
+      },
+      {
+         "link": "https://www.digitalwerk.agency/en",
+         "title": "Your digital marketing agency in vienna | digitalwerk",
+         "description": "By developing digital strategies that combine web-based solutions, online marketing and strategy consulting, we support your project! Say hi!",
+         "thumbnail": "https://uploads-ssl.webflow.com/61fa34e3c4f3e6c84c6cd1d5/629878c63cd8b907c3de5bea_Homepage_Vorschaubild_1200x630.JPG",
+         "img_download": "https://images-ext-2.discordapp.net/external/kKXrxz895eoAGpOKeoOV6j2VKfSHDvVIGgoUO3y4yuE/https/uploads-ssl.webflow.com/61fa34e3c4f3e6c84c6cd1d5/629878c63cd8b907c3de5bea_Homepage_Vorschaubild_1200x630.JPG"
+      },
+      {
+         "link": "https://producter.co",
+         "title": "Product Management Software | Producter",
+         "description": "Producter is an all-in-one product management tool to collect feedback, manage tasks, track roadmap, share product updates, and create docs.",
+         "thumbnail": "https://www.linkpicture.com/q/New-Website-Metadata-Image.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/jldkCGvE4aPJnfJjVIpETbJC8qUufACNiszIkktFuIc/https/www.linkpicture.com/q/New-Website-Metadata-Image.jpg"
+      },
+      {
+         "link": "https://annajona.is",
+         "title": "Anna J\u00f3na",
+         "description": "I am a caf\u00e9 + bar + cinema opening in Reykjavik in the fall of 2022",
+         "thumbnail": "http://annajona.is/static/og/1200-630.jpg?0",
+         "img_download": "https://images-ext-2.discordapp.net/external/F9RE1zAhtf0_xqoSj3LLHx0h3ZsXJo_DKKTsCubb2pk/%3F0/http/annajona.is/static/og/1200-630.jpg"
+      },
+      {
+         "link": "https://uxcel.com",
+         "title": "Uxcel - Where UX Design Careers Are Built",
+         "description": "Learn new design skills, verify your knowledge, and land your dream job with Uxcel\u2019s interactive platform for design professionals.",
+         "thumbnail": "https://img.uxcel.com/assets/open-graph/uxcel-open-graph-v4.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/J15yVBgjnA5xghUiIeYm6npSOGgJJAJFpmtWsF3aL94/https/img.uxcel.com/assets/open-graph/uxcel-open-graph-v4.jpg"
+      },
+      {
+         "link": "https://anytype.io/en",
+         "title": "Anytype \u2014 operating system for life",
+         "description": "Anytype is a next generation software that breaks down barriers between applications, gives back privacy and data ownership to users.",
+         "thumbnail": "https://anytype.io/ogimage.jpg",
+         "img_download": "https://images-ext-2.discordapp.net/external/NOCPYOBfMlLyHvPg6T0HJxnAvqXnZmAY-SUf42NErH4/https/anytype.io/ogimage.jpg"
+      },
+      {
+         "link": "https://www.gtheimagineers.com/en.html",
+         "title": "G!theimagineers",
+         "description": "G!theimagineers is a hybrid creative, agile, daring, sassy production studio that embraces architecture, scenography, light, image, sound and all the techniques of the performing arts.",
+         "thumbnail": "https://www.gtheimagineers.com/assets/images/share/share.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/95g4b6OzcDSw5oTx_FLdS8E0dddNSJQRz0RmJ5KBMP4/https/www.gtheimagineers.com/assets/images/share/share.png"
+      },
+      {
+         "link": "https://www.exoape.com",
+         "title": "Digital Design Studio",
+         "description": "Exo Ape is a digital design studio based in the Netherlands. We craft immersive experiences that inspire, affect and delight in a digital-first world.",
+         "thumbnail": "https://exoape.com/img/og/og.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/LcGCc4iG5axrSNgsrR3GuisDOE6uIRz_ah_Z6fHkn5c/https/exoape.com/img/og/og.png"
+      },
+      {
+         "link": "https://splitbee.io",
+         "title": "Splitbee - Your friendly all-in-one analytics & conversion tool",
+         "description": "Your friendly all-in-one conversion tool. Analyze and grow your website with Splitbee. Get started for free today.",
+         "thumbnail": "https://splitbee.io/og-image.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/Zu98V--5Ffs2FPe-J07PGjSkE4ioCXjQmtmJDJENM3Y/https/splitbee.io/og-image.png"
+      },
+      {
+         "link": "https://pixelpoint.io",
+         "title": "Pixel Point \u2014 Web Design and Development",
+         "description": "Design and development of JAMStack-based marketing websites",
+         "thumbnail": "https://pixelpoint.io/images/social-preview.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/XQj-3A0kk1ryFHnz4Bg-v5J60QunRdMOn47Jozt37A4/https/pixelpoint.io/images/social-preview.jpg"
+      },
+      {
+         "link": "https://basement.studio",
+         "title": "basement.studio | We make cool shit that performs.",
+         "description": "basement is a boutique studio that brings what brands envision to life, through branding, visual design & development of the highest quality.",
+         "thumbnail": "https://basement.studio/og.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/DVJqIyH5JQ4ZdB-z-JXzjNal6LaBwKZbV34cT2vMu48/https/basement.studio/og.png"
+      },
+      {
+         "link": "https://amie.so",
+         "title": "Amie - Joyful productivity",
+         "description": "Meet the all-in-one calendar. Schedule time for todos, events, and contacts with joy. Try it for free!",
+         "thumbnail": "https://www.amie.so/images/meta.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/XXiIUBxoYmXejB4OTlh4x_OL3hKGdtNbnXW7Kwy3OPk/https/www.amie.so/images/meta.png"
+      },
+      {
+         "link": "https://wireframe.cc",
+         "title": "Wireframe.cc | The go-to wireframing tool.",
+         "description": "A powerful, intuitive app for creating and sharing wireframes.",
+         "thumbnail": "https://cdn.wireframe.cc/images/wireframe_homepage.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/J66jPBlXiFdnZwi3da4U6D5x8HwYoVzwJAa7otT3eNM/https/cdn.wireframe.cc/images/wireframe_homepage.png"
+      },
+      {
+         "link": "https://www.compose.ai",
+         "title": "Compose AI: Automate Your Writing",
+         "description": "Compose is a free Chrome extension that lets you automate your writing using AI. We shouldn't be spending 40% of our time typing every day: it's time to change the game.",
+         "thumbnail": "curation_index/screenshots/Compose AI: Automate Your Writing.png",
+         "img_download": "curation_index/screenshots/Compose AI: Automate Your Writing.png"
+      },
+      {
+         "link": "https://custo.io/",
+         "title": "Custo: Bringing the world to your doorstep.",
+         "description": "Spending time looking for your parcel around your neighbourhood is a thing of the past. That\u2019s a promise.",
+         "thumbnail": "https://cdn.shopify.com/s/files/1/0609/7744/7071/files/OGimage-Custo.jpg?v=1653985924",
+         "img_download": "https://images-ext-2.discordapp.net/external/QZNIRg21biz8Vsz6qN2NrhwDDqHG4mPlhr5DbaR01Rw/%3Fv%3D1653985924/https/cdn.shopify.com/s/files/1/0609/7744/7071/files/OGimage-Custo.jpg"
+      },
+      {
+         "link": "https://ixeau.com",
+         "title": "IXEAU \u00b7 An app ahead",
+         "description": "IXEAU publishes apps for macOS and iOS designed and developed by Martin Lexow.",
+         "thumbnail": "https://ixeau.com/assets/ixeau-thumb.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/ilWKlordORE7GKFpEsG5i95iW_sgSPGdsfCM4i0GOUA/https/ixeau.com/assets/ixeau-thumb.png"
+      },
+      {
+         "link": "https://drawsql.app",
+         "title": "DrawSQL - \ud83d\udd25 Database schema diagrams",
+         "description": "Simple, beautiful database diagram editor for developers to create, collaborate and visualize their entity relationship diagrams.",
+         "thumbnail": "https://drawsql.app/img/drawsql-banner.png?6297a2e3563c57.78601010",
+         "img_download": "https://images-ext-1.discordapp.net/external/4LH3RKg_iX3Npf9NN9lf4j2cSzihsvRQY5nz5K8ux-s/%3F6297a2e3563c57.78601010/https/drawsql.app/img/drawsql-banner.png"
+      },
+      {
+         "link": "https://www.docker.com/",
+         "title": "Home - Docker",
+         "description": "With over 50 sessions for developers by developers, watch the latest developer news, trends, and announcements from DockerCon 2022. From the keynote to",
+         "thumbnail": "https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Social_Thumbnail_1200x630_v5.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/nksNNoOLnMrvarqpXsbQ7vMueGcp8Vw24rx_hO_zIV8/https/www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Social_Thumbnail_1200x630_v5.png"
+      },
+      {
+         "link": "https://flare.rive.app/",
+         "title": "Rive - Bring your apps and games to life with real-time animation.",
+         "description": "Bring your apps and games to life with real-time animation. Rive is a powerful design and animation tool, which allows designers and developers to easily add high-quality animation to Flutter, iOS, Android, Unity, OpenGL, C++, C#, OpenTK, HTML, JS, and other apps and games.",
+         "thumbnail": "curation_index/screenshots/Rive - Bring your apps and games to life with real-time animation..png",
+         "img_download": "curation_index/screenshots/Rive - Bring your apps and games to life with real-time animation..png"
+      },
+      {
+         "link": "https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en",
+         "title": "VisBug",
+         "description": "Open source browser design tools",
+         "thumbnail": "https://lh3.googleusercontent.com/uuSgZ6PkjJksEGebBy_Tz3I5bkPQmEygwMTzoZS7T1262Q9iZHDyWuh1-3gAb2L8mlx6zDccBelZpIRnij6-UypGSTc=w128-h128-e365-rj-sc0x00ffffff",
+         "img_download": "https://images-ext-2.discordapp.net/external/7O4SWY1UGRGyvAczm-MEfWwGaYk57AwO3q4ZrPW_2N4/https/lh3.googleusercontent.com/uuSgZ6PkjJksEGebBy_Tz3I5bkPQmEygwMTzoZS7T1262Q9iZHDyWuh1-3gAb2L8mlx6zDccBelZpIRnij6-UypGSTc%3Dw128-h128-e365-rj-sc0x00ffffff"
+      },
+      {
+         "link": "https://www.cloudcraft.co/",
+         "title": "Cloudcraft \u2013 Draw AWS diagrams",
+         "description": "Visualize your AWS environment as isometric architecture diagrams. Snap together blocks for EC2s, ELBs, RDS and more. Connect your live AWS environment.",
+         "thumbnail": "https://static.cloudcraft.co/images/opengraph.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/-2rqDKgMWA3cgHcBTZKC-3_7-5LrFvAGg3-2wu8wum4/https/static.cloudcraft.co/images/opengraph.png"
+      },
+      {
+         "link": "https://remix.run/",
+         "title": "Remix - Build Better Websites",
+         "description": "Remix is a full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience. People are gonna love using your stuff.",
+         "thumbnail": "https://remix.run/img/og.1.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/GK0KjQ9M0qCS0EQQl0OMuHtfHliDBoQ6ajOIlbhOJnA/https/remix.run/img/og.1.jpg"
+      },
+      {
+         "link": "https://uno.app/",
+         "title": "Uno",
+         "description": "Uno is making the internet easier to use, starting with security.",
+         "thumbnail": "https://media.graphassets.com/resize=fit:scale,height:630,width:1200/output=format:webp/3lSa7IJORliJGfbwcfev",
+         "img_download": "https://images-ext-1.discordapp.net/external/aKY5Dy8fxKBhFbU1-HjlSpUFTFgrzlkeXtITwZKfDhk/https/media.graphassets.com/resize%3Dfit%3Ascale%2Cheight%3A630%2Cwidth%3A1200/output%3Dformat%3Awebp/3lSa7IJORliJGfbwcfev"
+      },
+      {
+         "link": "https://xn--smon-vpa.com",
+         "title": "S\u00edmon Riisn\u00e6s Dagfinrud",
+         "description": "Norwegian designer working on computational design, generative art, and identities. Based in Amsterdam.",
+         "thumbnail": "https://xn--smon-vpa.com/static.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/H3wm917_kV8SSkmz3TZZAoYzWxosH43_oVWOX9JR5x8/https/xn--smon-vpa.com/static.png"
+      },
+      {
+         "link": "https://upsite.app/",
+         "title": "Upsite.app",
+         "description": "Status pages made simple.",
+         "thumbnail": "https://upsite.app/img/social_media_image.jpg",
+         "img_download": "https://images-ext-1.discordapp.net/external/gVwa3T3GHyCcols7n1LHN5Q1vaE4XxVQkFRrKBNUy8o/https/upsite.app/img/social_media_image.jpg"
+      },
+      {
+         "link": "https://app.reclaim.ai/",
+         "title": "Reclaim | A smart friend for your calendar",
+         "description": "Reclaim automatically blocks flexible time on your calendar to keep you focused on the things that matter most.",
+         "thumbnail": "https://reclaim-worklifecalendar-ccnoy2rd1-reclaim-ai.vercel.app/img/opengraph/general.png",
+         "img_download": "https://images-ext-2.discordapp.net/external/P57TLZ8FzZdBRvLNHUxW8uXs50oPjLg4EYoFkjjylHo/https/reclaim-worklifecalendar-ccnoy2rd1-reclaim-ai.vercel.app/img/opengraph/general.png"
+      },
+      {
+         "link": "https://www.thecraftsmen.tech/?ref=godly",
+         "title": "The Craftsmen Agency",
+         "description": "We provide clients with Crafty web solutions, developed with skill & passion.",
+         "thumbnail": "curation_index/screenshots/The Craftsmen Agency.png",
+         "img_download": "curation_index/screenshots/The Craftsmen Agency.png"
+      },
+      {
+         "link": "https://www.designmind.io",
+         "title": "DesignMind - Unlimited Design Consultation & Strategy",
+         "description": "Get unlimited access to an experienced designer's mind to help with design decisions, feedback, optimizations and more.",
+         "thumbnail": "https://uploads-ssl.webflow.com/6260237cf20ec0f4f3c69880/626fda0479a4f60d6f9f69eb_Meta%20Card.png",
+         "img_download": "https://images-ext-1.discordapp.net/external/kCLaytYAHGs2fD4VLOu3LRhlDgfYQj8kv969CNIaHus/https/uploads-ssl.webflow.com/6260237cf20ec0f4f3c69880/626fda0479a4f60d6f9f69eb_Meta%2520Card.png"
+      }
+   ],
+   "count": 155
+}

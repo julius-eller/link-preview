@@ -4,12 +4,12 @@
 def get_title(html):
     """Scrape page title."""
     title = None
-    if html.title.string:
+    if html.title:
         title = html.title.string
     elif html.find("meta", property="og:title"):
-        description = html.find("meta", property="og:title").get('content')
+        title = html.find("meta", property="og:title").get('content')
     elif html.find("meta", property="twitter:title"):
-        description = html.find("meta", property="twitter:title").get('content')
+        title = html.find("meta", property="twitter:title").get('content')
     elif html.find("h1"):
         title = html.find("h1").string
     elif html.find_all("h1"):
@@ -51,6 +51,7 @@ def get_image(html):
 
 def get_site_name(html, url):
     """Scrape site name."""
+    sitename = None
     if html.find("meta", property="og:site_name"):
         sitename = html.find("meta", property="og:site_name").get('content')
     elif html.find("meta", property='twitter:title'):

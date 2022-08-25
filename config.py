@@ -1,3 +1,3 @@
 """Scraper configuration."""
 
-URL = 'https://example.com/'
+URL = 'https://www.apple.com'

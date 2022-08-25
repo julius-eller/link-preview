@@ -22,16 +22,26 @@ def scrape_page_metadata(url):
         'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'
     }
     pp = pprint.PrettyPrinter(indent=4)
-    r = requests.get(url, headers=headers)
-    html = BeautifulSoup(r.content, 'html.parser')
-    metadata = {
-        'title': get_title(html),
-        'description': get_description(html),
-        'image': get_image(html),
-        'favicon': get_favicon(html, url),
-        'sitename': get_site_name(html, url),
-        'color': get_theme_color(html),
-        'url': url
-        }
-    pp.pprint(metadata)
-    return metadata
+    # here we need to check if url is valid and handle errors
+    if url.startswith('http') :
+        try: 
+            r = requests.get(url, headers=headers, timeout=6)
+        except requests.exceptions.RequestException as e:
+            print (e)
+            return False
+        else:
+            html = BeautifulSoup(r.content, 'html.parser')
+            if html:
+                metadata = {
+                    'title': get_title(html),
+                    'description': get_description(html),
+                    'image': get_image(html),
+                    'favicon': get_favicon(html, url),
+                    'sitename': get_site_name(html, url),
+                    'color': get_theme_color(html),
+                    'url': url
+                    }
+            pp.pprint(metadata)
+            return metadata
+    else:
+        return False
