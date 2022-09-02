@@ -13,14 +13,20 @@ def make_screenshot (url, foldername, sitename) :
     '''saves screenshot from url as {sitename}.png to foldername'''
     if not os.path.exists(foldername):
         os.mkdir(foldername)
+
+    # Configure the driver and options based on your browser and machine
+    # This might take a bit of googling to find the correct settings
+    # currently I am using Brave Browser on Mac M1 Pro
     option = webdriver.ChromeOptions()
     option.binary_location = "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"
+    # This hides a banner that would pop up otherwise
     option.add_experimental_option("excludeSwitches", ["enable-automation"])
     driver = webdriver.Chrome(service=BraveService(ChromeDriverManager(chrome_type=ChromeType.BRAVE).install()), options=option)
 
-    # set window size
+    # set window size (https://yizeng.me/2014/02/23/how-to-get-window-size-resize-or-maximize-window-using-selenium-webdriver/#heading-python)
     driver.set_window_size(1558, 854)
     try:
+        # set page load timeout
         driver.set_page_load_timeout(8)
         driver.get(url)
     except TimeoutException as ex:
@@ -29,7 +35,6 @@ def make_screenshot (url, foldername, sitename) :
         driver.quit()
         return relativeToFolder + "/" + sitename + ".png"
     sleep(1)
-   
     button = find_cookie_match(driver)
     if button != False:
         try:
